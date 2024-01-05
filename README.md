@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/udaymourya15" target="blank"><img src="https://img.shields.io/twitter/follow/udaymourya15?logo=twitter&style=for-the-badge" alt="udaymourya15" /></a> </p>
 
-- 💬 Ask me about **Java,Html,Css,Bootstrap,Javascript,Hibernation,Spring&SpringBoot,C++,Pythons,Sql,Pl&Sql**
+- 💬 Ask me about **Java,Html,Css,Bootstrap,Javascript,Hibernate,Spring&SpringBoot,C++,Python,Sql,Pl&Sql**
 
 - 📫 How to reach me **udaymourya921@gmail.com**
 
@@ -15,8 +15,12 @@
 <p align="left">
 <a href="https://twitter.com/udaymourya15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="udaymourya15" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/uday-mourya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uday-mourya" height="30" width="40" /></a>
-<a href="https://fb.com/uday-mourya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="uday-mourya" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/uday-mourya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="uday-mourya" height="30" width="40" /></a>
+<a href="https://fb.com/uday.mourya.01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="uday.mourya.01" height="30" width="40" /></a>
 <a href="https://instagram.com/uday_mourya_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="uday_mourya_02" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/uday-mourya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uday-mourya" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@uday-mourya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@uday-mourya" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/udaymourya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="udaymourya" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
